@@ -1,0 +1,4 @@
+﻿  ConsoleApplication1.cpp
+D:\OAiP\Labs\Lab 4\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(16,22): warning C4101: i: неиспользованная локальная переменная
+D:\OAiP\Labs\Lab 4\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(53): warning C4715: binarySearch: значение возвращается не при всех путях выполнения
+  ConsoleApplication1.vcxproj -> D:\OAiP\Labs\Lab 4\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe

@@ -1,0 +1,22 @@
+Ivanov Ivan Ivanovich
+9 3 5 2
+Petrov Petr Petrovich
+9 4 10 2
+Dmitriev Dmitriy Dmitrievich
+10 8 2 4
+Sememov Semen Semenovich
+9 10 10 10
+Olegov Oleg Olegovich
+9 1 7 10
+Nikitin Nikita Nikitovich
+7 6 6 4
+Vladislavov Vladislav Vladislavovich
+8 9 10 9
+Fedorov Fedor Fedorovich
+2 4 7 4
+Pavlov Pavel Pavlovich
+2 9 7 8
+Zaharov Zahar Zaharovich
+10 4 7 9
+Maximov Maxim Maximovich
+7 5 7 8
